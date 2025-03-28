@@ -1,3 +1,5 @@
+Eredeti forrás: https://github.com/bbatsov/clojure-style-guide
+
 # A Clojure stílus útmutató
 
 ## Tartalomjegyzék
